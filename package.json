@@ -1,0 +1,12 @@
+{
+  "name": "scb-scheduler",
+  "description": "Scheduler for tasks on SmallCloudBackup",
+  "version": "0.0.1",
+  "private": false,
+  "repository": "https://github.com/SmallCloudBackup/scb-scheduler",
+  "dependencies": {
+    "async": "*",
+    "debug": "*",
+    "jackrabbit": "*"
+  }
+}
